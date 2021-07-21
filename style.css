@@ -58,6 +58,10 @@ section {
   align-items: center;
 }
 
+.input-sexo .radio {
+  margin: 0 10px;
+}
+
 .radio {
   width: 15px;
   height: 15px;
@@ -131,5 +135,9 @@ footer {
     height: 40px;
 
     font-size: 1rem;
+  }
+
+  .input-sexo .radio {
+    margin: 0 10px;
   }
 }
