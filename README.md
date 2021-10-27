@@ -9,13 +9,13 @@ Projeto prático para o estudo e treino de Javascript
 
 Esse é um site verificador de idade, que funciona da seguinte forma: após ser inserido o ano de nascimento no campo informado e selecionado o sexo, ele retorna uma imagem personalizada de acordo com a idade da pessoa, via javascript.
 
-#### Acesse o site completo: <a href="https://vaniamesquita.me/verificador-idade/" target="_blank">vaniamesquita.me/verificador-idade</a> 
+#### Acesse o site completo: <a href="https://verifica-idade.netlify.app" target="_blank">https://verifica-idade.netlify.app</a> 
 
 ---
 
 ## Layout
 
-Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/verificador-idade/" target="_blank">aqui</a>
+Você pode acessar o projeto clicando <a href="https://verifica-idade.netlify.app" target="_blank">aqui</a>
 
 <table align="center">
    <tr>
